@@ -1,4 +1,4 @@
-# WooCommerce Subscriptions Upstage
+# WooCommerce Subscriptions Backstage
 
 Using [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/) with a plugin, like WPML, that allows you to set duplicate URLs for the single copy of your WordPress application?
 
@@ -12,14 +12,14 @@ This plugin can be used to disable WooCommerce Subscriptions' Staging Mode compl
 
 ## Usage
 
-1. Download the [latest version of the plugin](https://github.com/Prospress/woocommerce-subscriptions-upstage/archive/master.zip)
+1. Download the [latest version of the plugin](https://github.com/Prospress/woocommerce-subscriptions-backstage/archive/master.zip)
 1. [Install & activate](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins) the plugin
 
 [Automatic renewal payments](https://docs.woocommerce.com/document/subscriptions/renewal-process/) will then be triggered for all subscriptions with an automatic payment method, no matter what URL the site is using.
 
 ## Reporting Issues
 
-If you find an problem, please [open a new Issue](https://github.com/Prospress/woocommerce-subscriptions-upstage/issues/new).
+If you find an problem, please [open a new Issue](https://github.com/Prospress/woocommerce-subscriptions-backstage/issues/new).
 
 Please note, we will not help address issues that are a result of ignoring the above warning and not manually disabling the plugin on sites where live payments should not be processed.
 
